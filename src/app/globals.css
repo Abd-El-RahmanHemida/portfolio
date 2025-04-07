@@ -41,3 +41,8 @@ body {
   margin: 0;  /* Remove default margin from <p> elements to ensure the text fits within the max-height */
 }
 
+@media (min-width: 320px) {
+  .xs\:flex-row {
+      flex-direction: row;
+  }
+}

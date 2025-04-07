@@ -68,7 +68,7 @@ const AboutSection = () => {
           knowledge and abilities. As a collaborative team player, I thrive on creating impactful applications 
           with others and delivering high-quality solutions.
           </p>
-          <div className="flex flex-row justify-start mt-8">
+          <div className="flex flex-col xs:flex-row  justify-start mt-8 sm:mt-12">
             <TabButton
               selectTab={() => handleTabChange("skills")}
               active={tab === "skills"}
