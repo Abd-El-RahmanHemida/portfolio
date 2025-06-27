@@ -63,7 +63,7 @@ const AboutSection = () => {
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
           I am a full stack web developer with a passion for building interactive, responsive web applications.
-          My technical skills include JavaScript, React, Redux, Next.js, Node.js, Express, PostgreSQL,
+          My technical skills include JavaScript, React, Next.js, Node.js, Express, PostgreSQL,
           prisma, MongoDB, and Git. I am a quick learner, constantly seeking new challenges to grow my 
           knowledge and abilities. As a collaborative team player, I thrive on creating impactful applications 
           with others and delivering high-quality solutions.
